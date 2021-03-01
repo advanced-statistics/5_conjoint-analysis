@@ -8,8 +8,8 @@ output: html_document
 
 ```{r}
 # Install Packages
-install.packages("conjoint")
-install.packages("tidyverse")
+install.packages("conjoint") # Analisis conjoin
+install.packages("tidyverse") # Untuk Analisis Data
 ```
 
 ## Load Packages
